@@ -8,4 +8,4 @@ Ideas:
 # Applications
 
 ## Retail forecasting
-- `slide` [Retail sales forecasting at Walmart](https://forecasters.org/wp-content/uploads/gravity_forms/7-c6dd08fee7f0065037affb5b74fec20a/2017/08/Seaman_ISF-2017.pdf). Predict for what? Addresses replenishment and pricing issue
+- `slide` [Retail sales forecasting at Walmart](https://forecasters.org/wp-content/uploads/gravity_forms/7-c6dd08fee7f0065037affb5b74fec20a/2017/08/Seaman_ISF-2017.pdf) (Seaman). Predict for what? Addresses replenishment and pricing issue
