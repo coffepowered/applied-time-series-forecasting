@@ -1,4 +1,4 @@
-![image](https://github.com/coffepowered/applied-time-series-forecasting/assets/27767588/d25aed14-1542-4ca7-9be3-06bd34b2bf4b)Available tags:
+Available tags:
 - Document mode: `slide`, `paper`, `book`, `article`
 - Document type: `research`, `application`
 
