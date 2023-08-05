@@ -11,7 +11,8 @@ Ideas:
     - [Principles and Algorithms for Forecasting Groups of Time Series: Locality and Globality](https://arxiv.org/abs/2008.00444)
 * Cross-validation
     - Experiments on cross-validation ([Samuele Mazzanti](https://towardsdatascience.com/12-ways-to-test-your-forecasts-like-a-pro-a783016c2515), inspired by [Victor Cerqueira et al](https://arxiv.org/abs/1905.11744))
-* Feature extraction and meta-learning
+* Feature-based approaches
+    - `paper` [Characteristic-based clustering for time series](https://robjhyndman.com/publications/ts-clustering/index.html). Using feature-based approaches to cluster time series greatly reduces the dimensionality of your problem
     - `slide` Meta-learning on how to forecast time series. [FFORMS: what type of models are most suitable for a given time serie](https://robjhyndman.com/papers/fforms.pdf)?
 * Metrics
     - `paper` Forecast Evaluation for Data Scientists: Common Pitfalls and Best Practices. [Hewamalage, Ackermann, Bergmeir](https://arxiv.org/abs/2203.10716)
