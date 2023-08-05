@@ -20,6 +20,7 @@ Ideas:
 
 ## Retail forecasting
 - `slide` [Retail sales forecasting at Walmart](https://forecasters.org/wp-content/uploads/gravity_forms/7-c6dd08fee7f0065037affb5b74fec20a/2017/08/Seaman_ISF-2017.pdf) (Seaman). Predict for what? Addresses replenishment and pricing issues
+- `paper` [Forecasting with trees](https://assets.amazon.science/17/31/0d99831d4add92e711a56abc75f8/forecasting-with-trees.pdf): why tree-based methods achieved excellent results in the M5 competitions? What are the directions to improve even further?
 
 ## Others
 - `paper` [Empirically validated probabilistic forecasts of energy technology costs](https://www.sciencedirect.com/science/article/pii/S254243512200410X). How to estimate stuff in a regime of technological uncertainty (due to [learning effects](https://en.wikipedia.org/wiki/Experience_curve_effects))? 
