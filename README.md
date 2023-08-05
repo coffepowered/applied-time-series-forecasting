@@ -29,6 +29,10 @@ Ideas:
 - [Sarem Seitz](https://www.sarem-seitz.com/). Featured: [when point forecasts fail]([https://www.sarem-seitz.com/](https://www.sarem-seitz.com/when-point-forecasts-are-completely-useless/#introduction)https://www.sarem-seitz.com/when-point-forecasts-are-completely-useless/#introduction), [autoregressive random forests](https://www.sarem-seitz.com/forecasting-with-decision-trees-and-random-forests/#introduction), [on probabilistic forecasts](https://www.sarem-seitz.com/why-i-prefer-probabilistic-forecasts-hitting-time-probabilities/#executive-summary-by-chatgpt)
 - Marco Cerliani. Featured: [forecasting with trees (hybrid modelling)](https://towardsdatascience.com/forecasting-with-trees-hybrid-modeling-for-time-series-58590a113178)
 
+# Practical tips 
+
+This section is not strictly related to time series but collects useful tips in Python, Model deployment and specific libraries
+- [Tricking data science: time series](https://bextuychiev.github.io/tricking-data-science/book/machine_learning/time_series.html)
 
 # Waitlist
 1. Monash Time Series Forecasting Archive (arxiv)
