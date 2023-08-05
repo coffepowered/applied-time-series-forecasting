@@ -6,10 +6,11 @@ Ideas:
 - feed this repo to an LLM to enable search and summarization
 
 # Techniques and modelling
+* Modeling: from basic to advanced concepts
+    - [Non-Stationarity in Time-Series Analysis: Modeling Stochastic and Deterministic Trends](https://psyarxiv.com/z7ja2/): a didactic paper on how to deal with time series non-stationarity (and on the consequences of ignoring it)
+    - [Principles and Algorithms for Forecasting Groups of Time Series: Locality and Globality](https://arxiv.org/abs/2008.00444)
 * Cross-validation
     - Experiments on cross-validation ([Samuele Mazzanti](https://towardsdatascience.com/12-ways-to-test-your-forecasts-like-a-pro-a783016c2515), inspired by [Victor Cerqueira et al](https://arxiv.org/abs/1905.11744))
-* Global and local modelling
-    - [Principles and Algorithms for Forecasting Groups of Time Series: Locality and Globality](https://arxiv.org/abs/2008.00444)
 * Feature extraction and meta-learning
     - `slide` Meta-learning on how to forecast time series. [FFORMS: what type of models are most suitable for a given time serie](https://robjhyndman.com/papers/fforms.pdf)?
 * Metrics
